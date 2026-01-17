@@ -1,1 +1,0 @@
-import{Nt as e,jt as t,z as n}from"./index-DZEffSAN.js";import{t as r}from"./Shared-B7QGQ4GH.js";t();var i=n();const a=({children:e,className:t=``,title:n,headerRight:a})=>(0,i.jsx)(r,{className:`items-center justify-center p-2 ${t}`,title:n,headerRight:a,children:e});export{a as t};
